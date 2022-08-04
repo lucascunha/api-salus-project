@@ -1,0 +1,25 @@
+{
+  "name": "salus-project",
+  "version": "1.0.0",
+  "description": "API REST desenvolvida com Node.js, Express e MySQL em cumprimento ao Bootcamp do curso de MBA em FullStack Developer da Faculdade Impacta",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi",
+    "bootcamp",
+    "fullsatack",
+    "developer"
+  ],
+  "author": "lucascunha",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
